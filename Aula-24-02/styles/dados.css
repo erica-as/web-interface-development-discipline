@@ -1,15 +1,14 @@
 .dados {
-    background-color: #e68f33;
-    width: 40%;
-    padding: 15px;
-  }
-  #imagem {
-    border-radius: 50%;
-    width: 70%;
-    margin-left: 30px;
-    margin-top: 15px;
-    border-color: white;
-  }
-  .subtitulo {
-    text-align: left;
-  }
+  background-color: #e68f33;
+  width: 30%;
+  padding: 15px;
+}
+#imagem {
+  border-radius: 50%;
+  width: 70%;
+  margin-left: 30px;
+  margin-top: 15px;
+}
+.subtitulo {
+  text-align: left;
+}
