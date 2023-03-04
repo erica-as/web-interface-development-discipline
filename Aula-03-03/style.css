@@ -1,0 +1,8 @@
+.cadastro-cliente label {
+    display: inline-block;
+    width: 120px;
+}
+
+.cadastro-cliente div {
+    padding: 5px 0px;
+}
