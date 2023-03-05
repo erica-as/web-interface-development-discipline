@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono:ital@1&family=Roboto+Serif:opsz@8..144&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+   background-color: #C0C0C0; 
+   font-family: 'Roboto Mono', monospace;
+}
+
+.redes-social {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 90%;
+    margin: 40px auto;
+    gap: 20px;
+}
+
+.redes-social img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.redes-social h1 {
+    font-size: 40px;
+}
+
+.redes-social a {
+    background-color: #4F4F4F;
+    color: white;
+    padding: 15px;
+    width: 50%;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.redes-social a:hover {
+    background-color: #1C1C1C;
+}
+
+
+
